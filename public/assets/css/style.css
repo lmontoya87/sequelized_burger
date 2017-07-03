@@ -1,0 +1,51 @@
+body { 
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #8B4513;
+}
+
+h1, h2 { 
+    color: goldenrod;
+    font-size: 35px;
+    padding: 5px;
+    font-family: 'Mogra', cursive;
+    text-shadow: 2px 2px 5px black;
+}
+
+table{
+    width: 100%;
+}
+
+td { 
+  width: 45%;  
+}
+
+input {
+    padding: 5px;
+}
+
+.devoured {
+    margin: 5px;
+}
+
+table + form { 
+    margin: 10px;
+}
+
+button {
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+img {
+    margin-top: 5px;
+    width: 300px;
+}

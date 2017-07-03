@@ -1,0 +1,29 @@
+{
+  "name": "sequelized_burger",
+  "version": "1.0.0",
+  "description": "using sequelize",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7",
+    "sequelize": "^4.2.1",
+    "sequelize-cli": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmontoya87/sequelized_burger.git"
+  },
+  "author": "LMontoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmontoya87/sequelized_burger/issues"
+  },
+  "homepage": "https://github.com/lmontoya87/sequelized_burger#readme"
+}
